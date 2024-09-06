@@ -30,6 +30,7 @@ func main() {
 		panic(err)
 	}
 
+	// TEST FOR GIT
 	// Открываем накладываемое изображение
 	overlayImageFile, err := os.Open("20.png")
 	if err != nil {
