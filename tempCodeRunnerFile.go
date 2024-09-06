@@ -1,0 +1,1 @@
+Resize(fyne.NewSize(100, 150))
